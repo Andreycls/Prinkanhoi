@@ -1,0 +1,79 @@
+Message-ID: <cce1c9228745c932b1b56f35d3468ee4@localhost>
+Date: Tue, 09 Jan 2018 06:37:24 +0100
+Subject: New order #13
+From: admin@example.com
+To: admin@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1515476244_2a4d0b8fb3636cb0211c498ff8dd9a92_=_"
+
+
+--_=_swift_v4_1515476244_2a4d0b8fb3636cb0211c498ff8dd9a92_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+New order #13
+
+Contact
+
+Phone: 5455
+Email: dsd@ema.com
+
+Notes=
+
+
+anjay
+Items
+
+Matt Paper A3 x 2 x 15000.0000$
+HVS A4 B/W Low x=
+ 6 x 195.0000$
+
+Total:  31170$
+
+--_=_swift_v4_1515476244_2a4d0b8fb3636cb0211c498ff8dd9a92_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+<h1>New order #13</h1>
+
+<h2>Contact</h2>
+
+<ul>
+    <li>Pho=
+ne: 5455</li>
+    <li>Email: dsd@ema.com</li>
+</ul>
+
+<h2>Notes</h2>=
+
+
+anjay
+<h2>Items</h2>
+
+<ul>
+        <li>Matt Paper A3 x 2 x 15=
+000.0000$</li>
+        <li>HVS A4 B/W Low x 6 x 195.0000$</li>
+</ul>
+=
+
+<p><string>Total: </string> 31170$</p>
+
+    </body>
+</html>
+
+
+--_=_swift_v4_1515476244_2a4d0b8fb3636cb0211c498ff8dd9a92_=_--

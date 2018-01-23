@@ -1,0 +1,80 @@
+Message-ID: <6384c639722305af2df048ea3479b23c@localhost>
+Date: Tue, 09 Jan 2018 14:43:22 +0100
+Subject: New order #29
+From: admin@example.com
+To: admin@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1515505402_8832771d84a8b586c0b4c5b4a824ac6e_=_"
+
+
+--_=_swift_v4_1515505402_8832771d84a8b586c0b4c5b4a824ac6e_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+New order #29
+
+Contact
+
+Phone: Berta Novalin
+Email: banber@del.ac=
+
+
+Notes
+
+sss
+Items
+
+HVS A4 B/W Medium x 2 x 350.0000$
+HVS A=
+4 Color Low x 2 x 800.0000$
+
+Total:  2300$
+
+--_=_swift_v4_1515505402_8832771d84a8b586c0b4c5b4a824ac6e_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+<h1>New order #29</h1>
+
+<h2>Contact</h2>
+
+<ul>
+    <li>Pho=
+ne: Berta Novalin</li>
+    <li>Email: banber@del.ac</li>
+</ul>
+
+<h2=
+>Notes</h2>
+
+sss
+<h2>Items</h2>
+
+<ul>
+        <li>HVS A4 B/W Me=
+dium x 2 x 350.0000$</li>
+        <li>HVS A4 Color Low x 2 x 800.0000$</l=
+i>
+</ul>
+
+<p><string>Total: </string> 2300$</p>
+
+    </body>
+</=
+html>
+
+
+--_=_swift_v4_1515505402_8832771d84a8b586c0b4c5b4a824ac6e_=_--
